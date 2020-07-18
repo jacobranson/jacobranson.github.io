@@ -14,6 +14,8 @@ title: "Jacob Ranson"
 title_separator: "|"
 description: "My personal website."
 
+include: ["_pages"]
+
 main:
   - title: "About Me"
     url: /about/
