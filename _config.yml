@@ -4,3 +4,12 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
+
+locale: "en-US"
+
+repository: "jacobranson/jacobranson.github.io"
+
+name: "Jacob Ranson"
+title: "Jacob Ranson"
+title_separator: "|"
+description: "My personal website."
