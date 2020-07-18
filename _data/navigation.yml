@@ -3,5 +3,3 @@ main:
     url: /about
   - title: "Blog"
     url: /blog
-  - title: "Search"
-    url: /search
