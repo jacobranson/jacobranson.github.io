@@ -23,6 +23,24 @@ timezone: America/New_York
 include:
   - _pages
 
+author:
+  name   : "Jacob Ranson"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "I am a full-stack web developer with aspirations to move into the game development field. I have extensive experience with Angular frontend web development, and am currently employed by Randstad USA working as an intern for Vanguard."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.jacobranson.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jacobranson"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jacobranson"
+
 defaults:
   # _posts
   - scope:
