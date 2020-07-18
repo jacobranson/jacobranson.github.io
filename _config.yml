@@ -13,6 +13,7 @@ name: "Jacob Ranson"
 title: "Jacob Ranson"
 title_separator: "|"
 description: "My personal website."
+search: true
 
 permalink: /:categories/:title/
 paginate: 5
