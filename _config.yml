@@ -13,3 +13,7 @@ name: "Jacob Ranson"
 title: "Jacob Ranson"
 title_separator: "|"
 description: "My personal website."
+
+main:
+  - title: "About Me"
+    url: /about/
