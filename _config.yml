@@ -28,18 +28,21 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a full-stack web developer with aspirations to move into the game development field. I have extensive experience with Angular frontend web development, and am currently employed by Randstad USA working as an intern for Vanguard."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.jacobranson.com"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/jacobranson"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jacobrileighranson/"
 
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/jacobranson"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jacobrileighranson/"
 
 defaults:
   # _posts
