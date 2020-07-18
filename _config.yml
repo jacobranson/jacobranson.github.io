@@ -25,7 +25,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-main:
-  - title: "About Me"
-    url: /about/
