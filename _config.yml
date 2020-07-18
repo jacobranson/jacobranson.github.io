@@ -14,7 +14,8 @@ title: "Jacob Ranson"
 title_separator: "|"
 description: "My personal website."
 
-include: ["_pages"]
+include:
+  - _pages
 
 defaults:
   # _pages
