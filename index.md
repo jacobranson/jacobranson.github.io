@@ -3,7 +3,7 @@ layout: single
 title: "Hey!"
 sidebar:
   - title: "Jacob Ranson"
-    image: "/assets/images/bio-photo.jpg"
+    image: "/assets/images/bio-photo.png"
     image_alt: "Jacob Ranson"
     text: "Full-stack web developer and game designer."
 ---
