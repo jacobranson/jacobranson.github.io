@@ -25,4 +25,4 @@ I also have experience with the following technologies:
 * Python
 * Kotlin
 
-If you would like to read more about my experience in any of the above technologies, visit my [blog]('https://jacobranson.com/blog/')!
+If you would like to read more about my experience in any of the above technologies, visit my [blog](blog/)!
