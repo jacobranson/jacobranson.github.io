@@ -24,7 +24,7 @@ include:
 
 author:
   name   : "Jacob Ranson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "I am a full-stack web developer with aspirations to move into the game development field. I have extensive experience with Angular frontend web development, and am currently employed by Randstad USA working as an intern for Vanguard."
   links:
     - label: "GitHub"
