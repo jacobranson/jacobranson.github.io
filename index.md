@@ -15,7 +15,7 @@ My name is Jake. I'm a 21 year old senior in Drexel University's Computer Scienc
 I am a game designer by education, but a web designer by trade. I am highly proficient in the following subject areas:
 
 * [Angular Web Development](experience/angular)
-* [Java Development with Spring Framework](experience/java-spring)
+* [Java Development with Spring Framework](experience/java)
 * [Linux System Administration](experience/linux)
 * [C# Game Development with Unity/Godot](experience/game-dev)
 
