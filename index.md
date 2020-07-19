@@ -25,4 +25,4 @@ I also have experience with the following technologies:
 * [Python](experience/python)
 * [Kotlin](experience/kotlin)
 
-If you would like to read more about my experience in any of the above technologies, visit my [blog](blog/)!
+If you would like to read more about my experience in any of the above technologies, visit my [blog](blog)!
