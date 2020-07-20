@@ -1,5 +1,7 @@
 main:
   - title: "Experience"
     url: /experience
+  - title: "Projects"
+    url: /projects
   - title: "Blog"
     url: /blog
