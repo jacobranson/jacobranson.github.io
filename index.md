@@ -26,3 +26,11 @@ I also have experience with the following technologies:
 * [Kotlin](experience/kotlin)
 
 To learn more about my experience, click [here](experience).
+
+## Projects
+
+I have developed a handful of projects in the past few years that may be of interest. They can be viewed [here](projects).
+
+## Interests
+
+I am an avid Linux user. Currently I run elementary OS on my laptop and Pop!\_OS on my desktop. I also enjoy playing video games on my Switch, PS4, and PC. I play board games frequently as well. Some of my favorite games right now are Hearthstone and Catan. If you would like some further reading into my thoughts and experiences, check out my [blog](blog).
