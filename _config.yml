@@ -22,6 +22,11 @@ breadcrumbs: true
 
 include:
   - _pages
+  
+collections:
+  experience:
+    output: true
+    permalink: /:experience/:path
 
 author:
   name   : "Jacob Ranson"
