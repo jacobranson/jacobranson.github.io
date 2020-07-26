@@ -7,6 +7,7 @@ sidebar:
     image_alt: "Jacob Ranson"
     text: "Full-stack web developer and game designer."
   - title: "Find Me"
+    children:
     - title: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobranson"
