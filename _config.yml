@@ -63,3 +63,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _pages/experience
+  - scope:
+      path: "_pages/experience"
+      type: experience
+    values:
+      author_profile: false
+      sidebar:
+        nav: "experience"
