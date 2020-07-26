@@ -63,9 +63,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _pages/experience
+  # experience
   - scope:
-      path: "_pages/experience"
+      path: ""
       type: experience
     values:
       author_profile: false
