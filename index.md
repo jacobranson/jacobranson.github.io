@@ -7,10 +7,10 @@ sidebar:
     image_alt: "Jacob Ranson"
     text: "Full-stack web developer and game designer."
   - title: "Find Me"
-    - label: "GitHub"
+    - title: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobranson"
-    - label: "LinkedIn"
+    - title: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jacobrileighranson/"
 ---
