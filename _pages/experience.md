@@ -1,6 +1,9 @@
 ---
+title: Experience
 permalink: /experience
-title: "Experience"
+layout: collection
+collection: experience
+entries_layout: grid
 ---
 
 Experience
