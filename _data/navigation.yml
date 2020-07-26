@@ -5,3 +5,21 @@ main:
     url: /projects
   - title: "Experience"
     url: /experience
+
+docs:
+  - title: "Experience"
+    children:
+      - title: "Angular"
+        url: experience/angular
+      - title: "Java"
+        url: experience/java
+      - title: "Linux"
+        url: experience/linux
+      - title: "Game Development"
+        url: experience/game-dev
+      - title: "C++"
+        url: "experience/cpp"
+      - title: "Python"
+        url: experience/python
+      - title: "Kotlin"
+        url: experience/kotlin
