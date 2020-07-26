@@ -1,7 +1,7 @@
 ---
 permalink: /experience
 title: "Experience"
-author: false
+author_profile: false
 sidebar:
   nav: "experience"
 ---
