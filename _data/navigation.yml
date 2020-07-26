@@ -6,7 +6,7 @@ main:
   - title: "Experience"
     url: /experience
 
-experience:
+experience_nav:
   - title: "Experience"
     children:
       - title: "Angular"
