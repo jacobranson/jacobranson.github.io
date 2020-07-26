@@ -9,9 +9,9 @@ sidebar:
   - title: "Find Me"
     children:
     - title: "fab fa-fw fa-github GitHub"
-      url: "https://github.com/jacobranson"
+      text: "https://github.com/jacobranson"
     - title: "fab fa-fw fa-linkedin LinkedIn"
-      url: "https://www.linkedin.com/in/jacobrileighranson/"
+      text: "https://www.linkedin.com/in/jacobrileighranson/"
 ---
 
 My name is Jake. I'm a 21 year old senior in Drexel University's Computer Science Class of 2021. Alongside my B.S. in Computer Science, I have a concentration in Game Programming and Development. I currently work for Randstad USA at Vanguard as a full-stack web development intern. I have previously worked for ASRC Federal Mission Solutions as a developer intern on the Aegis Defence System, as well. One of my goals is to release an indie game in the next few years.
