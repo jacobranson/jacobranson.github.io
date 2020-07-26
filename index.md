@@ -8,11 +8,9 @@ sidebar:
     text: "Full-stack web developer and game designer."
   - title: "Find Me"
     children:
-    - title: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - title: "fab fa-fw fa-github GitHub"
       url: "https://github.com/jacobranson"
-    - title: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+    - title: "fab fa-fw fa-linkedin LinkedIn"
       url: "https://www.linkedin.com/in/jacobrileighranson/"
 ---
 
